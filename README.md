@@ -12,3 +12,6 @@ I'm a software engineering student passionate about building scalable web applic
 ## 📫Contact Me
 - 📱+250780539886
 - 📧benineza.moise@gmail.com
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benineza&show_icons=true&theme=github_dark)
