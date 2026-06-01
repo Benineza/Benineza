@@ -14,4 +14,4 @@ I'm a software engineering student passionate about building scalable web applic
 - 📧benineza.moise@gmail.com
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benineza&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Benineza&theme=github-dark)
