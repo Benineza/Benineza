@@ -5,6 +5,6 @@ I'm a software engineering student passionate about building scalable web applic
 ---
 
 ## 🛠️ Tech Stack
-HTML, CSS, JavaScript, React  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode)](https://skillicons.dev)
 
 ---
