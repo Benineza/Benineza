@@ -15,4 +15,3 @@ I'm a software engineering student passionate about building scalable web applic
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Benineza&theme=github-dark)
-![Moise's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benineza&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
