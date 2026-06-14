@@ -1,6 +1,6 @@
 ## Hi,  I'm Moise Benineza
 
-I'm a software engineering student passionate about building scalable web applications, APIs, and real-world digital solutions. I enjoy turning ideas into working products and continuously improving my skills through hands-on projects and learning.
+I am a Software Engineering student at Adventist University of Central Africa with a strong interest in web development and building modern digital solutions. I possess solid knowledge of software development principles, IT technical support and hands-on experience developing responsive web applications using HTML, CSS, JavaScript and React. I am passionate about creating efficient, user-friendly systems and continuously improving my technical skills through practical projects and real-world problem solving.
 
 ---
 
