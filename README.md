@@ -5,7 +5,7 @@ I am a Software Engineering student at Adventist University of Central Africa wi
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,postgresql,postman,git,github,java,vscode,vite,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,postgresql,postman,git,github,java,vscode,vite,ai,photoshop)](https://skillicons.dev)
 
 ---
 
