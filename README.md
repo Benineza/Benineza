@@ -15,4 +15,3 @@ I am a Software Engineering student at Adventist University of Central Africa wi
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Benineza&theme=github-dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Benineza)](https://git.io/streak-stats)
